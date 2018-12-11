@@ -1,0 +1,200 @@
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:02     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:02     all    7.54    0.01   13.25    1.95    0.00    0.11    0.00    0.00    0.00   77.13
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:04     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:04     all    7.54    0.01   13.25    1.96    0.00    0.11    0.00    0.00    0.00   77.13
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:06     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:06     all    7.55    0.01   13.25    1.95    0.00    0.11    0.00    0.00    0.00   77.13
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:08     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:08     all    7.56    0.01   13.26    1.96    0.00    0.11    0.00    0.00    0.00   77.11
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:10     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:10     all    7.56    0.01   13.26    1.95    0.00    0.11    0.00    0.00    0.00   77.10
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:12     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:12     all    7.58    0.01   13.27    1.95    0.00    0.11    0.00    0.00    0.00   77.08
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:14     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:14     all    7.59    0.01   13.29    1.95    0.00    0.11    0.00    0.00    0.00   77.06
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:16     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:16     all    7.60    0.01   13.30    1.95    0.00    0.11    0.00    0.00    0.00   77.03
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:18     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:18     all    7.61    0.01   13.32    1.95    0.00    0.11    0.00    0.00    0.00   77.00
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:20     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:20     all    7.62    0.01   13.33    1.95    0.00    0.11    0.00    0.00    0.00   76.98
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:22     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:22     all    7.63    0.01   13.35    1.95    0.00    0.11    0.00    0.00    0.00   76.95
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:24     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:24     all    7.65    0.01   13.36    1.95    0.00    0.11    0.00    0.00    0.00   76.92
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:26     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:26     all    7.66    0.01   13.38    1.95    0.00    0.11    0.00    0.00    0.00   76.89
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:28     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:28     all    7.67    0.01   13.40    1.95    0.00    0.11    0.00    0.00    0.00   76.87
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:30     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:30     all    7.68    0.01   13.42    1.95    0.00    0.11    0.00    0.00    0.00   76.84
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:32     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:32     all    7.69    0.01   13.43    1.95    0.00    0.11    0.00    0.00    0.00   76.81
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:34     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:34     all    7.70    0.01   13.45    1.95    0.00    0.11    0.00    0.00    0.00   76.78
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:36     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:36     all    7.72    0.01   13.47    1.95    0.00    0.11    0.00    0.00    0.00   76.75
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:38     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:38     all    7.73    0.01   13.48    1.94    0.00    0.11    0.00    0.00    0.00   76.73
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:40     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:40     all    7.74    0.01   13.50    1.94    0.00    0.11    0.00    0.00    0.00   76.70
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:42     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:42     all    7.75    0.01   13.52    1.94    0.00    0.11    0.00    0.00    0.00   76.67
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:44     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:44     all    7.76    0.01   13.54    1.94    0.00    0.11    0.00    0.00    0.00   76.64
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:46     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:46     all    7.77    0.01   13.56    1.94    0.00    0.11    0.00    0.00    0.00   76.61
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:48     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:48     all    7.78    0.01   13.58    1.94    0.00    0.11    0.00    0.00    0.00   76.58
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:50     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:50     all    7.79    0.01   13.60    1.94    0.00    0.11    0.00    0.00    0.00   76.55
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:52     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:52     all    7.80    0.01   13.62    1.94    0.00    0.11    0.00    0.00    0.00   76.52
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:54     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:54     all    7.81    0.01   13.64    1.94    0.00    0.11    0.00    0.00    0.00   76.49
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:56     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:56     all    7.82    0.01   13.66    1.94    0.00    0.11    0.00    0.00    0.00   76.46
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:56:58     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:56:58     all    7.83    0.01   13.68    1.94    0.00    0.11    0.00    0.00    0.00   76.43
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:00     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:00     all    7.84    0.01   13.71    1.94    0.00    0.11    0.00    0.00    0.00   76.40
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:02     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:02     all    7.85    0.01   13.73    1.94    0.00    0.11    0.00    0.00    0.00   76.37
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:04     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:04     all    7.86    0.01   13.75    1.93    0.00    0.11    0.00    0.00    0.00   76.34
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:06     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:06     all    7.87    0.01   13.77    1.93    0.00    0.11    0.00    0.00    0.00   76.31
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:08     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:08     all    7.88    0.01   13.79    1.93    0.00    0.11    0.00    0.00    0.00   76.28
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:10     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:10     all    7.89    0.01   13.81    1.93    0.00    0.11    0.00    0.00    0.00   76.25
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:12     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:12     all    7.90    0.01   13.83    1.93    0.00    0.11    0.00    0.00    0.00   76.22
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:14     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:14     all    7.91    0.01   13.85    1.93    0.00    0.11    0.00    0.00    0.00   76.19
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:16     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:16     all    7.92    0.01   13.87    1.93    0.00    0.11    0.00    0.00    0.00   76.16
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:18     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:18     all    7.93    0.01   13.89    1.93    0.00    0.11    0.00    0.00    0.00   76.13
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:20     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:20     all    7.94    0.01   13.91    1.93    0.00    0.11    0.00    0.00    0.00   76.10
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:22     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:22     all    7.95    0.01   13.93    1.93    0.00    0.11    0.00    0.00    0.00   76.07
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:24     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:24     all    7.96    0.01   13.95    1.93    0.00    0.11    0.00    0.00    0.00   76.04
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:26     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:26     all    7.97    0.01   13.97    1.93    0.00    0.11    0.00    0.00    0.00   76.01
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:28     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:28     all    7.98    0.01   13.99    1.93    0.00    0.11    0.00    0.00    0.00   75.98
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:30     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:30     all    7.99    0.01   14.01    1.92    0.00    0.11    0.00    0.00    0.00   75.95
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:32     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:32     all    8.00    0.01   14.03    1.92    0.00    0.11    0.00    0.00    0.00   75.92
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:34     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:34     all    8.01    0.01   14.05    1.92    0.00    0.11    0.00    0.00    0.00   75.89
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:36     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:36     all    8.02    0.01   14.07    1.92    0.00    0.11    0.00    0.00    0.00   75.86
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:38     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:38     all    8.03    0.01   14.09    1.92    0.00    0.11    0.00    0.00    0.00   75.83
+Linux 4.15.0-39-generic (jordan-Inspiron-5567) 	05/12/18 	_x86_64_	(4 CPU)
+
+13:57:40     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:57:40     all    8.04    0.01   14.11    1.92    0.00    0.11    0.00    0.00    0.00   75.80
