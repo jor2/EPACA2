@@ -6,6 +6,7 @@ cleanup=./cleanup.sh
 stats=./stats.txt
 loadtest=./loadtest
 synthetic=./synthetic.dat
+csv=./results.csv
 
 # If a previous run was made it will clean up the previously made files
 # for the current run, instead of appending to those files.
@@ -58,3 +59,5 @@ do
 	# indeed running correctly.
 	cat $results | tail -n1
 done
+
+cat $results >> $csv
