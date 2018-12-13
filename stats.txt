@@ -1,250 +1,250 @@
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
 
-02:51:03     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:04     all   10.00    0.00    2.22    0.00    2.22    2.22    0.00    0.00    0.00   83.33
-Average:     all   10.00    0.00    2.22    0.00    2.22    2.22    0.00    0.00    0.00   83.33
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
+13:09:52     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:09:53     all    5.43    0.00    3.26   28.26    4.35    7.61    0.00    0.00    0.00   51.09
+Average:     all    5.43    0.00    3.26   28.26    4.35    7.61    0.00    0.00    0.00   51.09
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
 
-02:51:05     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:06     all   22.06    0.00    4.41    0.00    1.47    2.94    0.00    0.00    0.00   69.12
-Average:     all   22.06    0.00    4.41    0.00    1.47    2.94    0.00    0.00    0.00   69.12
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
+13:09:55     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:09:56     all    5.19    0.00    3.90    0.00    3.90    5.19    0.00    0.00    0.00   81.82
+Average:     all    5.19    0.00    3.90    0.00    3.90    5.19    0.00    0.00    0.00   81.82
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
 
-02:51:07     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:08     all   18.92    0.00    2.70    0.00    1.35    2.70    0.00    0.00    0.00   74.32
-Average:     all   18.92    0.00    2.70    0.00    1.35    2.70    0.00    0.00    0.00   74.32
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
+13:09:57     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:09:58     all   14.86    0.00    5.41    0.00    4.05    5.41    0.00    0.00    0.00   70.27
+Average:     all   14.86    0.00    5.41    0.00    4.05    5.41    0.00    0.00    0.00   70.27
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
 
-02:51:09     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:10     all   18.06    0.00    1.39    0.00    1.39    2.78    0.00    0.00    0.00   76.39
-Average:     all   18.06    0.00    1.39    0.00    1.39    2.78    0.00    0.00    0.00   76.39
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
+13:09:59     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:00     all   20.27    0.00    6.76    4.05    5.41    6.76    0.00    0.00    0.00   56.76
+Average:     all   20.27    0.00    6.76    4.05    5.41    6.76    0.00    0.00    0.00   56.76
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
 
-02:51:11     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:12     all   29.11    0.00    2.53    0.00    1.27    1.27    0.00    0.00    0.00   65.82
-Average:     all   29.11    0.00    2.53    0.00    1.27    1.27    0.00    0.00    0.00   65.82
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
+13:10:01     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:02     all   23.08    0.00    6.15    0.00    4.62    6.15    0.00    0.00    0.00   60.00
+Average:     all   23.08    0.00    6.15    0.00    4.62    6.15    0.00    0.00    0.00   60.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
 
-02:51:13     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:14     all   18.84    1.45    1.45    0.00    1.45    2.90    0.00    0.00    0.00   73.91
-Average:     all   18.84    1.45    1.45    0.00    1.45    2.90    0.00    0.00    0.00   73.91
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
+13:10:03     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:04     all   15.79    0.00    3.51    0.00    1.75    3.51    0.00    0.00    0.00   75.44
+Average:     all   15.79    0.00    3.51    0.00    1.75    3.51    0.00    0.00    0.00   75.44
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
 
-02:51:15     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:16     all   31.82    0.00    3.03    0.00    1.52    1.52    0.00    0.00    0.00   62.12
-Average:     all   31.82    0.00    3.03    0.00    1.52    1.52    0.00    0.00    0.00   62.12
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
+13:10:05     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:06     all   18.18    0.00    3.03    0.00    4.55    4.55    0.00    0.00    0.00   69.70
+Average:     all   18.18    0.00    3.03    0.00    4.55    4.55    0.00    0.00    0.00   69.70
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
 
-02:51:17     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:18     all   33.85    1.54    3.08    0.00    1.54    3.08    0.00    0.00    0.00   56.92
-Average:     all   33.85    1.54    3.08    0.00    1.54    3.08    0.00    0.00    0.00   56.92
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
+13:10:07     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:08     all   86.21    0.00    6.90    0.00    3.45    3.45    0.00    0.00    0.00    0.00
+Average:     all   86.21    0.00    6.90    0.00    3.45    3.45    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
 
-02:51:19     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:20     all   38.18    1.82    3.64    0.00    1.82    3.64    0.00    0.00    0.00   50.91
-Average:     all   38.18    1.82    3.64    0.00    1.82    3.64    0.00    0.00    0.00   50.91
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:21     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:22     all   43.10    0.00    3.45    0.00    1.72    1.72    0.00    0.00    0.00   50.00
-Average:     all   43.10    0.00    3.45    0.00    1.72    1.72    0.00    0.00    0.00   50.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:23     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:24     all   44.29    0.00    4.29    0.00    1.43    1.43    0.00    0.00    0.00   48.57
-Average:     all   44.29    0.00    4.29    0.00    1.43    1.43    0.00    0.00    0.00   48.57
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:25     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:26     all   44.00    0.00    2.00    0.00    0.00    2.00    0.00    0.00    0.00   52.00
-Average:     all   44.00    0.00    2.00    0.00    0.00    2.00    0.00    0.00    0.00   52.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:27     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:28     all   43.10    0.00    3.45    0.00    1.72    1.72    0.00    0.00    0.00   50.00
-Average:     all   43.10    0.00    3.45    0.00    1.72    1.72    0.00    0.00    0.00   50.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:29     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:30     all   49.18    1.64    4.92    0.00    1.64    1.64    0.00    0.00    0.00   40.98
-Average:     all   49.18    1.64    4.92    0.00    1.64    1.64    0.00    0.00    0.00   40.98
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:31     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:32     all   41.86    2.33    4.65    0.00    2.33    2.33    0.00    0.00    0.00   46.51
-Average:     all   41.86    2.33    4.65    0.00    2.33    2.33    0.00    0.00    0.00   46.51
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:33     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:34     all   52.94    0.00    3.92    0.00    0.00    1.96    0.00    0.00    0.00   41.18
-Average:     all   52.94    0.00    3.92    0.00    0.00    1.96    0.00    0.00    0.00   41.18
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:35     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:36     all   52.27    0.00    2.27    0.00    2.27    2.27    0.00    0.00    0.00   40.91
-Average:     all   52.27    0.00    2.27    0.00    2.27    2.27    0.00    0.00    0.00   40.91
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:37     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:38     all   69.49    1.69    3.39    0.00    1.69    1.69    0.00    0.00    0.00   22.03
-Average:     all   69.49    1.69    3.39    0.00    1.69    1.69    0.00    0.00    0.00   22.03
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:39     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:40     all   70.00    0.00    4.00    0.00    2.00    2.00    0.00    0.00    0.00   22.00
-Average:     all   70.00    0.00    4.00    0.00    2.00    2.00    0.00    0.00    0.00   22.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:41     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:42     all   65.38    1.92   23.08    0.00    3.85    3.85    0.00    0.00    0.00    1.92
-Average:     all   65.38    1.92   23.08    0.00    3.85    3.85    0.00    0.00    0.00    1.92
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:43     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:44     all   64.15    0.00    7.55    0.00    1.89    3.77    0.00    0.00    0.00   22.64
-Average:     all   64.15    0.00    7.55    0.00    1.89    3.77    0.00    0.00    0.00   22.64
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:45     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:46     all   64.52    0.00   14.52    0.00    1.61    3.23    0.00    0.00    0.00   16.13
-Average:     all   64.52    0.00   14.52    0.00    1.61    3.23    0.00    0.00    0.00   16.13
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:47     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:48     all   77.05    0.00    4.92    0.00    1.64    1.64    0.00    0.00    0.00   14.75
-Average:     all   77.05    0.00    4.92    0.00    1.64    1.64    0.00    0.00    0.00   14.75
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:49     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:50     all   77.36    0.00    5.66    0.00    1.89    1.89    0.00    0.00    0.00   13.21
-Average:     all   77.36    0.00    5.66    0.00    1.89    1.89    0.00    0.00    0.00   13.21
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:51     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:52     all   66.00    0.00   14.00    0.00    2.00    4.00    0.00    0.00    0.00   14.00
-Average:     all   66.00    0.00   14.00    0.00    2.00    4.00    0.00    0.00    0.00   14.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:53     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:54     all   73.47    0.00    4.08    0.00    2.04    2.04    0.00    0.00    0.00   18.37
-Average:     all   73.47    0.00    4.08    0.00    2.04    2.04    0.00    0.00    0.00   18.37
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:55     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:56     all   68.00    0.00    6.00    0.00    2.00    2.00    0.00    0.00    0.00   22.00
-Average:     all   68.00    0.00    6.00    0.00    2.00    2.00    0.00    0.00    0.00   22.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:57     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:51:58     all   78.57    0.00    4.76    0.00    2.38    4.76    0.00    0.00    0.00    9.52
-Average:     all   78.57    0.00    4.76    0.00    2.38    4.76    0.00    0.00    0.00    9.52
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:51:59     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:00     all   81.40    0.00    4.65    0.00    2.33    2.33    0.00    0.00    0.00    9.30
-Average:     all   81.40    0.00    4.65    0.00    2.33    2.33    0.00    0.00    0.00    9.30
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:01     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:02     all   89.74    0.00    5.13    0.00    2.56    2.56    0.00    0.00    0.00    0.00
-Average:     all   89.74    0.00    5.13    0.00    2.56    2.56    0.00    0.00    0.00    0.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:03     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:04     all   89.47    0.00    5.26    0.00    0.00    2.63    0.00    0.00    0.00    2.63
-Average:     all   89.47    0.00    5.26    0.00    0.00    2.63    0.00    0.00    0.00    2.63
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:05     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:06     all   87.50    2.50    5.00    0.00    2.50    2.50    0.00    0.00    0.00    0.00
-Average:     all   87.50    2.50    5.00    0.00    2.50    2.50    0.00    0.00    0.00    0.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:07     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:08     all   84.62    0.00    7.69    0.00    2.56    5.13    0.00    0.00    0.00    0.00
-Average:     all   84.62    0.00    7.69    0.00    2.56    5.13    0.00    0.00    0.00    0.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:09     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:10     all   83.33    0.00    6.25    0.00    2.08    2.08    0.00    0.00    0.00    6.25
-Average:     all   83.33    0.00    6.25    0.00    2.08    2.08    0.00    0.00    0.00    6.25
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:11     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:12     all   83.64    1.82    3.64    0.00    1.82    1.82    0.00    0.00    0.00    7.27
-Average:     all   83.64    1.82    3.64    0.00    1.82    1.82    0.00    0.00    0.00    7.27
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:13     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:14     all   86.67    0.00    4.44    0.00    2.22    4.44    0.00    0.00    0.00    2.22
-Average:     all   86.67    0.00    4.44    0.00    2.22    4.44    0.00    0.00    0.00    2.22
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:15     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:16     all   89.13    2.17    4.35    0.00    2.17    2.17    0.00    0.00    0.00    0.00
-Average:     all   89.13    2.17    4.35    0.00    2.17    2.17    0.00    0.00    0.00    0.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:17     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:18     all   89.47    0.00    5.26    0.00    2.63    2.63    0.00    0.00    0.00    0.00
-Average:     all   89.47    0.00    5.26    0.00    2.63    2.63    0.00    0.00    0.00    0.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:20     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:21     all   90.24    0.00    4.88    0.00    2.44    2.44    0.00    0.00    0.00    0.00
-Average:     all   90.24    0.00    4.88    0.00    2.44    2.44    0.00    0.00    0.00    0.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:22     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:23     all   83.33    0.00    4.17    0.00    4.17    4.17    0.00    0.00    0.00    4.17
-Average:     all   83.33    0.00    4.17    0.00    4.17    4.17    0.00    0.00    0.00    4.17
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:24     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:25     all   91.30    0.00    4.35    0.00    0.00    4.35    0.00    0.00    0.00    0.00
-Average:     all   91.30    0.00    4.35    0.00    0.00    4.35    0.00    0.00    0.00    0.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:26     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:27     all   90.91    0.00    4.55    0.00    2.27    2.27    0.00    0.00    0.00    0.00
-Average:     all   90.91    0.00    4.55    0.00    2.27    2.27    0.00    0.00    0.00    0.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:28     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:29     all   86.05    2.33    6.98    0.00    0.00    4.65    0.00    0.00    0.00    0.00
-Average:     all   86.05    2.33    6.98    0.00    0.00    4.65    0.00    0.00    0.00    0.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:30     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:31     all   90.24    0.00    4.88    0.00    2.44    2.44    0.00    0.00    0.00    0.00
-Average:     all   90.24    0.00    4.88    0.00    2.44    2.44    0.00    0.00    0.00    0.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:32     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:33     all   91.30    0.00    4.35    0.00    2.17    2.17    0.00    0.00    0.00    0.00
-Average:     all   91.30    0.00    4.35    0.00    2.17    2.17    0.00    0.00    0.00    0.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:34     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:35     all   87.50    2.08    6.25    0.00    2.08    2.08    0.00    0.00    0.00    0.00
-Average:     all   87.50    2.08    6.25    0.00    2.08    2.08    0.00    0.00    0.00    0.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:36     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:37     all   89.13    0.00    6.52    0.00    2.17    2.17    0.00    0.00    0.00    0.00
-Average:     all   89.13    0.00    6.52    0.00    2.17    2.17    0.00    0.00    0.00    0.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:38     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:39     all   90.70    0.00    4.65    0.00    2.33    2.33    0.00    0.00    0.00    0.00
-Average:     all   90.70    0.00    4.65    0.00    2.33    2.33    0.00    0.00    0.00    0.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
-
-02:52:40     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:41     all   85.71    0.00    7.14    0.00    3.57    3.57    0.00    0.00    0.00    0.00
+13:10:09     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:10     all   85.71    0.00    7.14    0.00    3.57    3.57    0.00    0.00    0.00    0.00
 Average:     all   85.71    0.00    7.14    0.00    3.57    3.57    0.00    0.00    0.00    0.00
-Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	12/12/18 	_x86_64_	(1 CPU)
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
 
-02:52:42     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
-02:52:43     all   92.86    0.00    0.00    0.00    3.57    3.57    0.00    0.00    0.00    0.00
-Average:     all   92.86    0.00    0.00    0.00    3.57    3.57    0.00    0.00    0.00    0.00
+13:10:11     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:12     all   85.71    0.00    7.14    0.00    3.57    3.57    0.00    0.00    0.00    0.00
+Average:     all   85.71    0.00    7.14    0.00    3.57    3.57    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:14     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:15     all   38.46    0.00    5.13   48.72    2.56    5.13    0.00    0.00    0.00    0.00
+Average:     all   38.46    0.00    5.13   48.72    2.56    5.13    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:16     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:17     all   64.71    0.00    5.88    0.00    2.94    2.94    0.00    0.00    0.00   23.53
+Average:     all   64.71    0.00    5.88    0.00    2.94    2.94    0.00    0.00    0.00   23.53
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:18     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:19     all   41.18    0.00    5.88   45.10    3.92    3.92    0.00    0.00    0.00    0.00
+Average:     all   41.18    0.00    5.88   45.10    3.92    3.92    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:20     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:21     all   36.17    0.00    4.26   17.02    2.13    4.26    0.00    0.00    0.00   36.17
+Average:     all   36.17    0.00    4.26   17.02    2.13    4.26    0.00    0.00    0.00   36.17
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:22     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:23     all   52.73    0.00    9.09    0.00    3.64    7.27    0.00    0.00    0.00   27.27
+Average:     all   52.73    0.00    9.09    0.00    3.64    7.27    0.00    0.00    0.00   27.27
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:24     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:25     all   51.11    0.00    6.67    0.00    2.22    6.67    0.00    0.00    0.00   33.33
+Average:     all   51.11    0.00    6.67    0.00    2.22    6.67    0.00    0.00    0.00   33.33
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:26     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:27     all   60.00    0.00    8.00    0.00    4.00    6.00    0.00    0.00    0.00   22.00
+Average:     all   60.00    0.00    8.00    0.00    4.00    6.00    0.00    0.00    0.00   22.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:28     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:29     all   56.82    0.00    9.09    0.00    2.27    4.55    0.00    0.00    0.00   27.27
+Average:     all   56.82    0.00    9.09    0.00    2.27    4.55    0.00    0.00    0.00   27.27
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:30     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:31     all   68.97    0.00   10.34    0.00    3.45    3.45    0.00    0.00    0.00   13.79
+Average:     all   68.97    0.00   10.34    0.00    3.45    3.45    0.00    0.00    0.00   13.79
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:32     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:33     all   74.42    0.00    6.98    0.00    2.33    4.65    0.00    0.00    0.00   11.63
+Average:     all   74.42    0.00    6.98    0.00    2.33    4.65    0.00    0.00    0.00   11.63
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:34     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:35     all   72.73    0.00    6.06    0.00    3.03    3.03    0.00    0.00    0.00   15.15
+Average:     all   72.73    0.00    6.06    0.00    3.03    3.03    0.00    0.00    0.00   15.15
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:36     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:37     all   73.33    0.00    6.67    0.00    3.33    6.67    0.00    0.00    0.00   10.00
+Average:     all   73.33    0.00    6.67    0.00    3.33    6.67    0.00    0.00    0.00   10.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:38     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:39     all   81.82    0.00    9.09    0.00    3.03    6.06    0.00    0.00    0.00    0.00
+Average:     all   81.82    0.00    9.09    0.00    3.03    6.06    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:40     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:41     all   80.39    0.00    7.84    0.00    1.96    5.88    0.00    0.00    0.00    3.92
+Average:     all   80.39    0.00    7.84    0.00    1.96    5.88    0.00    0.00    0.00    3.92
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:42     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:43     all   79.07    0.00    9.30    0.00    2.33    4.65    0.00    0.00    0.00    4.65
+Average:     all   79.07    0.00    9.30    0.00    2.33    4.65    0.00    0.00    0.00    4.65
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:44     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:45     all   67.24    0.00    8.62    0.00    3.45    5.17    0.00    0.00    0.00   15.52
+Average:     all   67.24    0.00    8.62    0.00    3.45    5.17    0.00    0.00    0.00   15.52
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:46     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:47     all   80.70    0.00    8.77    0.00    3.51    5.26    0.00    0.00    0.00    1.75
+Average:     all   80.70    0.00    8.77    0.00    3.51    5.26    0.00    0.00    0.00    1.75
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:48     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:49     all   82.98    0.00    8.51    0.00    4.26    4.26    0.00    0.00    0.00    0.00
+Average:     all   82.98    0.00    8.51    0.00    4.26    4.26    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:50     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:51     all   83.33    0.00    9.52    0.00    2.38    4.76    0.00    0.00    0.00    0.00
+Average:     all   83.33    0.00    9.52    0.00    2.38    4.76    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:52     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:53     all   82.00    0.00    8.00    2.00    2.00    6.00    0.00    0.00    0.00    0.00
+Average:     all   82.00    0.00    8.00    2.00    2.00    6.00    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:54     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:55     all   85.71    0.00    6.12    0.00    4.08    4.08    0.00    0.00    0.00    0.00
+Average:     all   85.71    0.00    6.12    0.00    4.08    4.08    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:56     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:57     all   83.67    0.00    6.12    0.00    4.08    6.12    0.00    0.00    0.00    0.00
+Average:     all   83.67    0.00    6.12    0.00    4.08    6.12    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:10:58     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:10:59     all   79.55    0.00    6.82    2.27    4.55    4.55    0.00    0.00    0.00    2.27
+Average:     all   79.55    0.00    6.82    2.27    4.55    4.55    0.00    0.00    0.00    2.27
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:11:00     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:11:01     all   83.72    0.00    9.30    0.00    2.33    4.65    0.00    0.00    0.00    0.00
+Average:     all   83.72    0.00    9.30    0.00    2.33    4.65    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:11:02     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:11:03     all   82.54    0.00    9.52    0.00    3.17    4.76    0.00    0.00    0.00    0.00
+Average:     all   82.54    0.00    9.52    0.00    3.17    4.76    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:11:04     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:11:05     all   84.00    0.00    6.00    0.00    4.00    6.00    0.00    0.00    0.00    0.00
+Average:     all   84.00    0.00    6.00    0.00    4.00    6.00    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:11:06     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:11:07     all   84.44    0.00    8.89    0.00    2.22    4.44    0.00    0.00    0.00    0.00
+Average:     all   84.44    0.00    8.89    0.00    2.22    4.44    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:11:08     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:11:09     all   82.50    0.00    7.50    0.00    2.50    7.50    0.00    0.00    0.00    0.00
+Average:     all   82.50    0.00    7.50    0.00    2.50    7.50    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:11:10     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:11:11     all   80.00    0.00   10.91    0.00    3.64    5.45    0.00    0.00    0.00    0.00
+Average:     all   80.00    0.00   10.91    0.00    3.64    5.45    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:11:12     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:11:13     all   84.09    0.00    6.82    0.00    2.27    6.82    0.00    0.00    0.00    0.00
+Average:     all   84.09    0.00    6.82    0.00    2.27    6.82    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:11:14     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:11:15     all   78.26    0.00    8.70    0.00    4.35    8.70    0.00    0.00    0.00    0.00
+Average:     all   78.26    0.00    8.70    0.00    4.35    8.70    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:11:16     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:11:17     all   87.50    0.00    6.25    0.00    0.00    6.25    0.00    0.00    0.00    0.00
+Average:     all   87.50    0.00    6.25    0.00    0.00    6.25    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:11:18     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:11:19     all   93.33    0.00    6.67    0.00    0.00    0.00    0.00    0.00    0.00    0.00
+Average:     all   93.33    0.00    6.67    0.00    0.00    0.00    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:11:20     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:11:21     all   82.35    0.00    5.88    0.00    5.88    5.88    0.00    0.00    0.00    0.00
+Average:     all   82.35    0.00    5.88    0.00    5.88    5.88    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:11:22     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:11:23     all   56.52    0.00    4.35   30.43    4.35    4.35    0.00    0.00    0.00    0.00
+Average:     all   56.52    0.00    4.35   30.43    4.35    4.35    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:11:24     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:11:25     all   85.71    0.00    8.57    0.00    2.86    2.86    0.00    0.00    0.00    0.00
+Average:     all   85.71    0.00    8.57    0.00    2.86    2.86    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:11:26     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:11:27     all   83.87    0.00    6.45    0.00    3.23    6.45    0.00    0.00    0.00    0.00
+Average:     all   83.87    0.00    6.45    0.00    3.23    6.45    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:11:28     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:11:29     all   80.65    0.00    9.68    0.00    3.23    6.45    0.00    0.00    0.00    0.00
+Average:     all   80.65    0.00    9.68    0.00    3.23    6.45    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:11:30     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:11:31     all   86.21    0.00    6.90    0.00    3.45    3.45    0.00    0.00    0.00    0.00
+Average:     all   86.21    0.00    6.90    0.00    3.45    3.45    0.00    0.00    0.00    0.00
+Linux 4.17.19-200.fc28.x86_64 (localhost.localdomain) 	13/12/18 	_x86_64_	(1 CPU)
+
+13:11:32     CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+13:11:33     all   86.11    0.00    8.33    0.00    2.78    2.78    0.00    0.00    0.00    0.00
+Average:     all   86.11    0.00    8.33    0.00    2.78    2.78    0.00    0.00    0.00    0.00
