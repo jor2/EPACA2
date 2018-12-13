@@ -16,7 +16,7 @@ if [ -e "$results" ]; then
 	# Calls cleanup script that just removes the previously made files.
 	# This was useful in the testing of my application as I didn't have
 	# to constantly clean up from previous runs as the task was automated.
-	$cleanup
+	rm $results $stats $synthetic
 fi 
 
 # Just some output to give some understanding to the user, so as they have
@@ -60,4 +60,4 @@ do
 	cat $results | tail -n1
 done
 
-cat $results >> $csv
+tr -s '\t' < $results | tr '\t' ',' > $csv 
